@@ -42,5 +42,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-./unet_buildings
-./unet_train
+unet_buildings
+unet_train
+*.h5
